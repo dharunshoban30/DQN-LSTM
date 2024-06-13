@@ -6,7 +6,7 @@ I've included the main requirements of the project for your perusal. It contains
 
 **2. Code_First-Copy**
 
-This file does not need any changes or modifications. It contains the code I used to clean the datasets and perform EDA, Feature Engineering, Feature Selection etc. I did Standard Scaling initially but found that the results were all outputted without it. With scaling the sharpe ratio just produced 'NaN'.
+This file does not need any changes or modifications. It contains the code I used to clean the datasets and perform EDA, Feature Engineering, Feature Selection etc. I did Standard Scaling initially but found that the results would only output every metric result without it. With Scaling the sharpe ratio results just produced 'NaN'.
 
 **3. Code_Second-Colab**
 
