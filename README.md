@@ -15,6 +15,8 @@ The reason why i only use 5 episodes is because it takes too long to run (3-4 ho
 
 **4. Code_Model_DebugEnv.ipynb**
 
+This file is used to debug the environment to see if the agent is taking actions or not. Based on the debugging results, it is taking actions, however only the AAPL dataset is outputting results. The other two datasets are not generating any results. 
+
 I am using an initial portfolio value of '100$'.I am not sure what the problem is, but this is the output produced after running:
 ![image](https://github.com/dharunshoban30/DQN-LSTM/assets/136322910/f9527b19-d16e-4f4f-8596-a8c8ea9e1828)
 
