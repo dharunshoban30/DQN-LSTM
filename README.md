@@ -12,6 +12,6 @@ This file contains the code for Model Training, Hyperparameter Optimization, and
 
 These raw stock data csv files are obtained from Yahoo! Finance to be loaded into the first notebook. 
 
-**4. AMZN_Cleaned.csv, GOOGL_Cleaned.csv, MSFT_Cleaned.csv**
+**4. AMZN_cleaned.csv, GOOGL_cleaned.csv, MSFT_cleaned.csv**
 
 These cleaned and transformed stock data csv files are loaded into the second notebook.
