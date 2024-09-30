@@ -1,9 +1,7 @@
 # 🤖 FYP: Stock Trading Using Deep Reinforcement Learning
 
 ## Overview
-This is my degree Final Year Project during my final year studies in university. This research project explores the application of DRL in stock trading, particularly the optimization of trading strategies. 
-The scope of this research consists of historical stock data of three NASDAQ companies: Amazon, Google, and Microsoft spanning 10 years. The DRL model chosen for this research project is Deep Q-Networks with Long Short-Term Memory neural network architecture.The model achieved a CR of 82.73%, SR of 0.93, and a MDD of -24.15%. This research not only contributes to the optimization of stock trading strategies through
-DRL, but also provides a structured model for addressing the complexities of financial markets.
+This is my degree Final Year Project during my final year studies in university. This research project explores the application of DRL in stock trading, particularly the optimization of trading strategies. In other words, it is a trading bot that autonomously makes trades based on past experiences and trial-and-error. The scope of this research consists of historical stock data of three NASDAQ companies: Amazon, Google, and Microsoft spanning 10 years. The DRL model chosen for this research project is Deep Q-Networks with Long Short-Term Memory neural network architecture. The model achieved a CR of 82.73%, SR of 0.93, and a MDD of -24.15%. This research not only contributes to the optimization of stock trading strategies through DRL, but also provides a structured model for addressing the complexities of financial markets.
 
 ## Objectives
 The primary objectives of this project are to:
