@@ -1,5 +1,6 @@
 # FYP:STOCK TRADING USING DEEP REINFORCEMENT LEARNING
 
+### File Descriptions
 **1. First_Notebook.ipynb**
 
 This file contains the code I used to clean the datasets and perform EDA, Feature Engineering, Feature Selection etc.
