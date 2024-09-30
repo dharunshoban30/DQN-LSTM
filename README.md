@@ -34,7 +34,7 @@ To execute the notebook, follow these steps:
       pip install numpy pandas matplotlib scikit-learn
       ```
 
-2. **Download Dataset**:
+2. **Download the Datasets**:
     - Ensure the datasets is available in the same directory as the notebook.
 
 3. **Running the Notebook**:
