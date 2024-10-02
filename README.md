@@ -10,8 +10,11 @@ The primary objectives of this project are to:
   metrics such as Cumulative Return (CR) and Sharpe Ratio (SR).
 - To improve the performance of stock trading models by using DRL during bearish and volatile stock market conditionsin simulated trading environment with
   Maximum Drawdown (MDD) as a performance metric.
-  
-### File Descriptions:
+
+## Model Construction 
+The Deep Reinforcement Learning (DRL) model used in this project is based on the Deep Q-Network (DQN) architecture with a Long Short-Term Memory (LSTM) neural network. This architecture was chosen to capture the temporal dependencies in stock market data, as historical price movements often exhibit time-series characteristics. The model aims to learn an optimal policy that maximizes the expected cumulative return over a trading period by continuously interacting with the simulated trading environment.
+
+## File Descriptions
 **1. First_Notebook.ipynb**
 - This file contains the code I used to clean the datasets and perform EDA, Feature Engineering, Feature Selection etc.
 
@@ -26,7 +29,6 @@ The primary objectives of this project are to:
 
 ## Instructions
 To execute the notebook, follow these steps:
-
 1. **Setup Environment**:
     - Ensure you have Python and Jupyter Notebook installed.
     - Install necessary libraries using the following commands:
